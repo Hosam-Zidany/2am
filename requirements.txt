@@ -1,0 +1,8 @@
+yt-dlp
+instaloader
+python-dotenv
+requests
+shutil
+random
+pytube
+python-telegram-bot
